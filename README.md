@@ -1,8 +1,8 @@
-Moiz Naveed
+#Moiz Naveed
 0971756
 Assignment 1 CIS 2520
 
-This program consists of a Linked List API and a simple traffic simulation to test the functionality of the API.
+**This program consists of a Linked List API and a simple traffic simulation to test the functionality of the API.**
 
 The program simulates a single 4 way intersection with each incoming lane described as a linkedlist. 
 As cars approach the intersection, they are added to the linked list. As cars leave the intersection,
