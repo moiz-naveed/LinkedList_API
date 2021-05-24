@@ -1,0 +1,15 @@
+N L 60
+N R 55
+W L 45
+N F 23
+E L 1
+S L 38
+S L 30
+N L 10
+E F 14
+S R 75
+E R 16
+N R 2
+N F 1
+
+
